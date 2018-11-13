@@ -1,0 +1,4 @@
+https://www.kaggle.com/uciml/sms-spam-collection-dataset
+
+1. login into your kaggle account
+2. Download the SMS-Spam-Collection-Dataset
