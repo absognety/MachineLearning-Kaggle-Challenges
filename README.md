@@ -1,2 +1,2 @@
-# ml-kaagle
+# ml-kaggle
 Kaggle kernels and challenges
