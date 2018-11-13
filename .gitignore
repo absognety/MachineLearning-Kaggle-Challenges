@@ -100,5 +100,8 @@ venv.bak/
 # mkdocs documentation
 /site
 
+#initialization files
+**/desktop.ini
+
 # mypy
 .mypy_cache/
