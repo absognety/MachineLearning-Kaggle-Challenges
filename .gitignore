@@ -103,5 +103,10 @@ venv.bak/
 #initialization files
 **/desktop.ini
 
+# MAC OSX cache files
+***/__MACOSX/
+__MACOSX/
+**/__MACOSX/
+
 # mypy
 .mypy_cache/
